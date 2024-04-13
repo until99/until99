@@ -1,13 +1,8 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=until99&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
 
-### Call me Until99!
-
 <img src="https://img.shields.io/static/v1?label=Overview&message=until99&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>Trabalhando na Federação Unimed Santa Catarina<br/> Eu sou Analista de Dados</p>
-
-## Ferramentas e Linguagens
-![image](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+<p>Eu sou Analista de Dados<br/>Mas também gosto de sistemas embarcados e Backend</p>
 
 ## Frontend
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
